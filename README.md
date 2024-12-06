@@ -3,8 +3,8 @@ This Jupyter Notebook provides a collection of essential NumPy codes, designed s
 
 ## Course Content of Each File 
 #### Lesson 1 
-> how to import numpy   
-> how to pip install numpy (if it is not present )   
+> How to import numpy   
+> How to pip install numpy (if it is not present )   
 > How to create arrays  
 > How to use baisc numpy functions  
  >> zeros   
@@ -22,4 +22,4 @@ This Jupyter Notebook provides a collection of essential NumPy codes, designed s
  > size  
  > dtype  
  > itemsize  
- --> nbytes  
+ > nbytes  

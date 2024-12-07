@@ -22,4 +22,28 @@ This Jupyter Notebook provides a collection of essential NumPy codes, designed s
  > size  
  > dtype  
  > itemsize  
- > nbytes  
+ > nbytes
+#### Lesson 2
+> Accessing elements from 1D array  
+  >> Indexing  
+  >> Negative Indexing  
+> Accessing elements from 2D array  
+  >> Indexing  
+> Modifying values of the array  
+  >> Slicing Arrays  
+    >> Positive Slicing  
+    >> Negative Slicing  
+> Accessing Rows and Columns  
+ >> Important : Modification Rule  
+> Copy()  
+ >> Important : Copy() Rule  
+ >> Reshaping  
+ >> newaxis  
+> Concatination of Array  
+  >> concatenate  
+  >> hstack  
+  >> vstack  
+> Spliting of Array  
+ >> Split  
+   >> vsplit  
+   >> hsplit  

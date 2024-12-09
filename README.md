@@ -46,4 +46,22 @@ This Jupyter Notebook provides a collection of essential NumPy codes, designed s
 > Spliting of Array  
  >> Split  
    >> vsplit  
-   >> hsplit  
+   >> hsplit
+
+#### Lesson 3   
+> Universal Functions
+> Arthematic Opreations
+    >> Another way of using Arthematic operators
+> Absolute Value Functions
+> Trignometric Functions
+> Inverse Trignometric Functions
+> Exponential Functions
+> Logarithm Functions --> Specialized versions
+> Specifying Outputs [A method of saving memory]
+> Aggregates
+    >> Reduce
+    >> Accumulate
+    >> Outer
+> Summing the values in array
+> Min Max Functions
+> Axis

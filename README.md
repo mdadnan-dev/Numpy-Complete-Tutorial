@@ -65,4 +65,16 @@ This Jupyter Notebook provides a collection of essential NumPy codes, designed s
     >> Outer  
 > Summing the values in array  
 > Min Max Functions  
-> Axis  
+> Axis
+
+#### Lesson 4  
+> Broadcasting  
+> Mean  
+> Comparison Operators Universal Functions  
+> Counting entries  
+> Boolean Operators  
+> Boolean Array as Masks  
+> Fancy Indexing  
+> Combined Indexing  
+> Modifying Values using Fancy Indexing  
+> at()  
